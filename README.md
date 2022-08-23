@@ -7,8 +7,8 @@ The output results can be seen in traffic_sign_detector.ipynb file
 
 The training result is as follows:
 ````
-Validation accuracy: 0.9923489093780518
-Validation loss: 0.040560975670814514
+Validation accuracy: 0.992
+Validation loss: 0.0405
 ````
 
 
